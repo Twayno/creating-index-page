@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background-color: rgb(92, 179, 179);
+    grid-area: nav;
+}
+
+header {
+    background-color: rgb(99, 187, 99);
+    grid-area: header;
+}
+
+main {
+    background-color: blue;
+    grid-area: main;
+}
+
+footer {
+    background-color: rgb(148, 148, 228);
+    grid-area: footer;
+}
